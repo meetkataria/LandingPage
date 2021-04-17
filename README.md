@@ -1,2 +1,2 @@
 # LandingPage
-This mini project is all about the landing page of a food ordering website.
+Used HTML and CSS in this mini project.
